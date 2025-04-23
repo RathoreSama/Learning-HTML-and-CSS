@@ -1,0 +1,23 @@
+body{
+    background-color: chartreuse;
+}
+.heading1{
+    background-color: aqua;
+    color: rgb(37, 37, 198);
+}
+
+.head2{
+color: rgb(199, 88, 41);
+font-size: 50px;
+font-family: italic;
+text-decoration: underline; 
+text-decoration-color: rgb(42, 12, 177);
+text-decoration-style: dashed; 
+word-spacing: 40px;
+letter-spacing: 5px;
+text-shadow: 5px 9px 10px blueviolet;
+}
+
+
+
+
