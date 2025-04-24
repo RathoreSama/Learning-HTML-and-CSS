@@ -1,22 +1,35 @@
 body{
-    background-color: chartreuse;
+    background-color: rgb(255, 255, 255);
 }
 .heading1{
     background-color: aqua;
-    color: rgb(37, 37, 198);
+    color: rgb(42, 61, 211);
 }
 
 .head2{
 color: rgb(199, 88, 41);
 font-size: 50px;
-font-family: italic;
+font-style: italic;
 text-decoration: underline; 
 text-decoration-color: rgb(42, 12, 177);
 text-decoration-style: dashed; 
 word-spacing: 40px;
 letter-spacing: 5px;
-text-shadow: 5px 9px 10px blueviolet;
+text-shadow: -10px -10px 5px rgb(16, 8, 23);
+text-align: center;
 }
+
+.para{
+    font-weight: bold;
+}
+
+.head3{
+    font-family: Verdana;
+}
+
+
+
+
 
 
 
