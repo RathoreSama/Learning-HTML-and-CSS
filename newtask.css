@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+}
+
+.hero{
+    background-image: url(philipp-kammerer-6Mxb_mZ_Q8E-unsplash.jpg);
+    height: 100vh;
+    background-size: cover;
+}
+
+
+.hero h1{
+    color: white;
+}
+.hero h5{
+    color: white;
+}
+
+ .hero button{
+    background-color: rgb(80, 25, 137);
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+}

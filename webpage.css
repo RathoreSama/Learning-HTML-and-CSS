@@ -1,0 +1,64 @@
+body{
+    margin: 0;
+}
+.nav h1{
+    color: red;
+    padding-left: 20px;
+    font-weight: bold;
+    font-family: Verdana;
+
+}
+
+.nav ul img{
+    width: 30px;
+    height: 20px;
+}
+
+
+.nav{
+    display: flex;
+    background-color: rgba(0, 0, 0, 0.979);
+    color: white;
+}
+
+.nav ul{
+    display: flex;
+    align-items: center;
+    justify-content: right;
+    padding-left: 400px;
+    gap: 20px;
+    list-style: none;
+    font-weight: 500;
+    font-size: medium;
+    font-family: Arial;
+}
+
+.login{
+    padding-left: 190px;
+}
+
+.hero{
+    background-image: url(phantom-zrQBJgzL1Iw-unsplash.jpg);
+    height: 81vh;
+    background-size: cover;
+}
+
+.down{
+    background-color: rgba(0, 0, 0, 0.86);
+    color: white;
+    display: flex;
+    justify-content: center;
+    font-weight: 400;
+    font-size: medium;
+    font-family: sans-serif;
+}
+
+
+
+
+
+
+
+
+
+

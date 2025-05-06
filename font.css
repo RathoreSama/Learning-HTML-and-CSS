@@ -1,0 +1,28 @@
+.head{
+    font-family: "Tagesschrift", system-ui;
+
+}
+
+.head1{
+    
+    font-family: "Tuffy", sans-serif;
+}
+
+.wrapper{
+    background-color: rgb(35, 193, 79);
+    height: 400px;
+}
+.ch1{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    position: relative;
+    top: 50px;
+}
+
+
+
+
+
+
+
