@@ -1,0 +1,32 @@
+.box{
+    height: 200px;
+    width: 200px;
+    border-radius: 20px;
+    background-color: red;
+    position: relative;
+    animation-name: slide;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes slide{
+    to{
+        top: 0;
+        left: 300px;
+    }
+    from{
+        top: 0;
+        left: 0;
+    }
+    50%{
+        top: 0;
+        left: 400px;
+        rotate: 45deg;
+        border: 3px solid black;
+    }
+    100%{
+        top: 300px;
+        left: 400px;
+        scale: 1.2;
+    }
+}
